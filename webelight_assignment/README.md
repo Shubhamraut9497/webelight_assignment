@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Webelight Assignment</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-    code {
-      background-color: #f0f0f0;
-      padding: 2px;
-      font-family: "Courier New", Courier, monospace;
-    }
-  </style>
-</head>
+
 <body>
   <h1>Webelight Assignment</h1>
 
@@ -100,4 +75,4 @@ npm install</code></pre>
     This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.
   </p>
 </body>
-</html>
+
