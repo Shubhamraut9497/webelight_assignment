@@ -30,7 +30,7 @@ function AddProduct() {
       };
     });
   };
-
+  console.log("hello")
   const submitForm = async (e) => {
     e.preventDefault();
 
